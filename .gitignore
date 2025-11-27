@@ -2,3 +2,9 @@ archive
 archive.zip
 Tabla.png
 neumonia_predict.pkl
+model_SMOTE.pkl
+modelo_entrenado_manual.pkl
+modelo_gridsearchcv.pkl
+cnn_entrenado_manualmente.ipynb
+cnn_hyperparameter_tunning.ipynb
+Tabla.png

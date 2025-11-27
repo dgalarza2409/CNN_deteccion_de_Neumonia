@@ -1,5 +1,6 @@
 
-# Teoría y desarrollo práctico de un proyecto de detección de Neumonía con Convolutional Neural Networks
+# Teoría y desarrollo práctico de un proyecto de detección de Neumonía con Convolutional Neural 
+## Altamente recomendable utilizar un entorno de desarrollo con GPU.
 
 ### Un modelo de IA para detectar neumonía en una radiografía sirve como una herramienta de apoyo crucial para los médicos, no como un reemplazo, ofreciendo beneficios significativos en eficiencia, precisión y acceso a la atención.
 
