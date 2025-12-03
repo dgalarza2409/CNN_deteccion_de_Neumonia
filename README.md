@@ -1,5 +1,5 @@
 
-# Teoría y desarrollo práctico de un proyecto de detección de Neumonía con Convolutional Neural 
+# Teoría y desarrollo práctico de un proyecto de detección de Neumonía con Redes Neuronales Convolucionales 
 ## Altamente recomendable utilizar un entorno de desarrollo con GPU.
 
 ### Un modelo de IA para detectar neumonía en una radiografía sirve como una herramienta de apoyo crucial para los médicos, no como un reemplazo, ofreciendo beneficios significativos en eficiencia, precisión y acceso a la atención.
@@ -35,6 +35,8 @@ En resumen, el modelo de IA es una herramienta de apoyo robusta que optimiza el 
   4. Demostración del uso de la librería OpenCV (CV2) para el preprocesamiento de las imágenes.
   5. Comprobación de la precisión de predicción.
   6. Ajuste de hiperparámetros para optimización del modelo.
+  7. Correccion de desbalance de clases con SMOTE
+  8. Transfer Learning:  En lugar de entrenar un nuevo modelo desde cero, lo que requiere una cantidad considerable de tiempo y datos, el aprendizaje por transferencia implica ajustar un modelo preentrenado para adaptarlo a la nueva tarea. 
 
   ---
 
